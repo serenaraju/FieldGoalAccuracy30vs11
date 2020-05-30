@@ -29,7 +29,7 @@ Kyrie Irving Shot Chart:
 
 # Comparison Chart
 
-![Comparison](Compare.png)
+![Comparison](Compare.jpg)
 
 # Visual Justification
 NBA is a men's professional basketball league in North America and has been the most popular basketball league for ages. The strengths and weaknesses of the players of the NBA might be known on the surface level to the average fan. For example, Steph Curry is known for his three-pointers, and Kyrie is better known for his layups. However, the exact positions that are favored by them may not be known. Their preferences based on their shots, their positions, their ranges are all mostly unknown to us.
